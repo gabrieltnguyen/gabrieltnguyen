@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrieltnguyen
+- 👋 Hi, I’m Gabriel Nguyen
 - :house_with_garden: Working from home
 - 👀 I’m interested in Copy & Paste
 - 🌱 I’m currently learning Professional Copy & Paste
