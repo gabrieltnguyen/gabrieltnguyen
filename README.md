@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @gabrieltnguyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :house_with_garden: Working from home
+- 👀 I’m interested in Copy & Paste
+- 🌱 I’m currently learning Professional Copy & Paste
+- 💞️ I’m looking to collaborate on Copy & Paste Organisation
+- 📫 How to reach me gabrieltnguyen@gmail.com 
+- :phone: +84.938.161.289 (Viber/Whatsapp)
 
 <!---
 gabrieltnguyen/gabrieltnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
