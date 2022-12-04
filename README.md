@@ -6,6 +6,8 @@
 - 📫 How to reach me gabrieltnguyen@gmail.com 
 - :phone: +84.933.388.933 (Viber/Whatsapp)
 
+![image title](https://rushter.com/counter.svg)
+
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
